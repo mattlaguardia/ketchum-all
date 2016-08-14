@@ -17,9 +17,9 @@ function preload(){
   game.scale.pageAlignHorizontally = true;
   game.scale.pageAlignVertically = true;
   game.stage.backgroundColor = '#eee';
-  game.load.image('ball', 'img/pokeball.png')
-  game.load.image('ash', 'img/ash.png');
-  game.load.image('pikachu', 'img/pikachu.png')
+  game.load.image('ball', 'images/pokeball.png')
+  game.load.image('ash', 'images/ash.png');
+  game.load.image('pikachu', 'images/pikachu.png')
 };
 
 function create(){
